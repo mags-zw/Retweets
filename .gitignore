@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+#csvs & excel files
+*.csv
+*.xlsx
